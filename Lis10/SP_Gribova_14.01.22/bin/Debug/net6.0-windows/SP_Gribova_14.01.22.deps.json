@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SP_Gribova_14.01.22/1.0.0": {
+        "runtime": {
+          "SP_Gribova_14.01.22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SP_Gribova_14.01.22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

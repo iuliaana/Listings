@@ -1,0 +1,17 @@
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\obj\Debug\net6.0-windows\SP_Gribova_14.01.22.csproj.AssemblyReference.cache
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\obj\Debug\net6.0-windows\SP_Gribova_14._01._22.Form1.resources
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\obj\Debug\net6.0-windows\SP_Gribova_14.01.22.csproj.GenerateResource.cache
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\obj\Debug\net6.0-windows\SP_Gribova_14.01.22.GeneratedMSBuildEditorConfig.editorconfig
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\obj\Debug\net6.0-windows\SP_Gribova_14.01.22.AssemblyInfoInputs.cache
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\obj\Debug\net6.0-windows\SP_Gribova_14.01.22.AssemblyInfo.cs
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\obj\Debug\net6.0-windows\SP_Gribova_14.01.22.csproj.CoreCompileInputs.cache
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\bin\Debug\net6.0-windows\SP_Gribova_14.01.22.exe
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\bin\Debug\net6.0-windows\SP_Gribova_14.01.22.deps.json
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\bin\Debug\net6.0-windows\SP_Gribova_14.01.22.runtimeconfig.json
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\bin\Debug\net6.0-windows\SP_Gribova_14.01.22.dll
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\bin\Debug\net6.0-windows\ref\SP_Gribova_14.01.22.dll
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\bin\Debug\net6.0-windows\SP_Gribova_14.01.22.pdb
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\obj\Debug\net6.0-windows\SP_Gribova_14.01.22.dll
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\obj\Debug\net6.0-windows\ref\SP_Gribova_14.01.22.dll
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\obj\Debug\net6.0-windows\SP_Gribova_14.01.22.pdb
+D:\kmpo\SP\SP_Gribova_14.01.22\SP_Gribova_14.01.22\SP_Gribova_14.01.22\obj\Debug\net6.0-windows\SP_Gribova_14.01.22.genruntimeconfig.cache
